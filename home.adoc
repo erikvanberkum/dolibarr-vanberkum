@@ -7,3 +7,6 @@
 === link:/home/configuration[Configuration]
 
 - content here
+
+
+image::/files/dolibarr_logo.png[dolibarr_logo.png]
