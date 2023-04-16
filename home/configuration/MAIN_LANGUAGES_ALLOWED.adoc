@@ -16,3 +16,56 @@ A list of languages without spaces
 
 V11.0
 
+[#document-attributes]
+== Document attributes
+
+Several built-in document attributes only affect the `manpage` doctype and output.
+These attributes (or the attributes from which they are derived) must be set in the document header.
+
+.Built-in document attributes for man pages
+[%autowidth]
+|===
+|Attribute |Description |Value (as parsed from example above)
+
+|`mantitle`
+|Can be set by overriding the `doctitle` attribute.
+Must include both the man page name and volume number.
+|ASCIIDOCTOR(1)
+
+|`manvolnum`
+|Can be set by overriding the `doctitle` attribute.
+Must include both the man page name and volume number.
+|ASCIIDOCTOR(1)
+
+|`manname`
+|Alternative way to set the command name.
+Only used if `manpurpose` is also set.
+|asciidoctor
+
+|`manpurpose`
+|Alternative way to set the command purpose.
+|converts AsciiDoc source files
+
+|`man-linkstyle`
+|Style the links in the man page output.
+A valid link format sequence.
+// Needs a reference to this.
+|[.pre-wrap]#blue R < >#
+
+|`mansource`
+|The source to which the man page pertains.
+When producing DocBook, it becomes a DocBook {url-docbook-refmisc}[refmiscinfo^] attribute and appears in the footer.
+|Asciidoctor
+
+|`manversion`
+|The version of the man page.
+Defaults to revnumber if not specified.
+When producing DocBook, it becomes a DocBook {url-docbook-refmisc}[refmiscinfo^] attribute and appears in the footer.
+Not used by Asciidoctor.
+|{release-version}
+
+|`manmanual`
+|Manual name.
+When producing DocBook, it becomes a DocBook {url-docbook-refmisc}[refmiscinfo^] attribute and appears in the footer.
+|Asciidoctor Manual
+|===
