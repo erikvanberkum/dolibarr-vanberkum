@@ -1,4 +1,4 @@
 == Recipes
 
 
-== set languages
+link:/home/recipies/set_languages[Set Languages]
