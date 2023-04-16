@@ -1,3 +1,7 @@
-== header
+== MAIN_LANGUAGES_ALLOWED
 
-content
+
+
+Is a list of languages without spaces, example: fr_FR,en_US,de_DE,it_IT +
+If defined, only those languages will appear in combos. +
+Available from version: v11.0
