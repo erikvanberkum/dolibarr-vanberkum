@@ -1,7 +1,18 @@
 == MAIN_LANGUAGES_ALLOWED
+:doctype: manpage
+:manmanual: EVE
+:mansource: EVE
+:man-linkstyle: pass:[blue R < >]
 
+If defined, only a limited number of selected languages will appear various combo boxes. +
 
+== Synopsis
 
-Is a list of languages without spaces, example: fr_FR,en_US,de_DE,it_IT +
-If defined, only those languages will appear in combos. +
-Available from version: v11.0
+ fr_FR,en_US,de_DE,it_IT
+
+A list of languages without spaces
+  
+== Available
+
+V11.0
+
