@@ -17,9 +17,19 @@ Home > Setup > Display > **Language and presentation**
 
 Activating multilanguage option will allow you to set the preferred language of customers, to print their Invoice/Proposal/Order in their specific language. Product translations are also available.
 
-By default all language of which a translation exists in Dolibarr are available. For many companies this is too much as they only want to support a few languages. To limit the number of available languages make the following setting:
+By default all languages for which a translation exists in Dolibarr are available. For many companies this is too much as they only want to support a few languages. To limit the number of available languages make the following setting:
 
+ifdef::env-github[]
+:tip-caption: :bulb:
+endif::[]
 
+[TIP]
+Home > Setup > Other Setup
+
+ Name: MAIN_LANGUAGES_ALLOWED
+ Value: en_US,es_ES,nl_NL,ja_JP,fr_FR
+
+The above setting will limit the number of languages a user can select.  
 
 === User language setting
 
@@ -53,8 +63,13 @@ ifdef::env-github[]
 endif::[]
 
 [TIP]
-Home > Setup > Display > **Language and presentation** 
+Home > Setup > Display > **Language and presentation** > Enable multilanguage support for customer or vendor relationships
 
-Next move to a product page
+Next move to a Product page and go to the Translations tab
 
+image::/files/recipes/set_languages/set_langauges-product-translations-1.png[set_langauges-product-translations-1.png]
+
+Select Add to add a translation or modify to change one. +
+
+image::/files/recipes/set_languages/set_langauges-product-translations-2.png[set_langauges-product-translations-2.png]
 
