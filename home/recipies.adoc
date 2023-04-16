@@ -1,0 +1,50 @@
+== Set Languages
+:icons: font
+
+Languages can be set in the following areas: +
+
+1. Global default language: __Home > Setup > Display > **Language and presentation** __
+
+In the language settings, you can set the Default Language. By default it is set to "Auto Detect".
+
+NOTE: Activating multilanguage option will allow you to be able to set the preferred language of customers, to print their Invoice/Proposal/Order in their own language. Product translations will also be available.
+
+
+
+2. User language Display Setup: __Home -> Users & Groups -> List of Users -> **User Display Setup**__ +
+   Modify: Enable **Use personal value** Select desired option  
+3. User language speak: __Home -> Users & Groups -> List of Users -> **User** -> Default language__ 
+Warning: This is the main language the user speak, not the language of the interface he choosed to see. To change the interface language visible by this user, go on tab %s
+
+
+To limit the number of languages a User can select from: 
+.After landing the cloaked Klingon bird of prey in Golden Gate park:
+[quote,Captain James T. Kirk,Star Trek IV: The Voyage Home]
+Everybody remember where we parked.
+
+[%collapsible]
+====
+This content is only revealed when the user clicks the block title.
+====
+
+Press the btn:[OK] button when you are finished.
+
+Select a file in the file navigator and click btn:[Open].
+
+To save the file, select menu:File[Save].
+
+Select menu:View[Zoom > Reset] to reset the zoom level to the default setting. +
+Select "Zoom > Reset" to reset the zoom level. +
+Select "&#8942; > More Tools > Extensions" to find and enable extensions. +
+Press the btn:[OK] button when you are finished.
+
+Select a file in the file navigator and click btn:[Open].
+[IMPORTANT]
+.Feeding the Werewolves
+====
+While werewolves are hardy community members, keep in mind the following dietary concerns:
+
+. They are allergic to cinnamon.
+. More than two glasses of orange juice in 24 hours makes them howl in harmony with alarms and sirens.
+. Celery makes them sad.
+====
