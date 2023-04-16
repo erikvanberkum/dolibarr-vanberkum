@@ -17,6 +17,10 @@ Home > Setup > Display > **Language and presentation**
 
 Activating multilanguage option will allow you to set the preferred language of customers, to print their Invoice/Proposal/Order in their specific language. Product translations are also available.
 
+By default all language of which a translation exists in Dolibarr are available. For many companies this is too much as they only want to support a few languages. To limit the number of available languages make the following setting:
+
+
+
 === User language setting
 
 The user language Display Setup is set in the user display menu.
@@ -38,10 +42,19 @@ ifdef::env-github[]
 endif::[]
 
 [TIP]
-Home -> Users & Groups -> List of Users -> **User** -> Default language
+Home -> Users & Groups > List of Users > **User** > Default language
 
 === Product translations
 
+When their is a requirement to make proposals and invoices in different languages activate the multilanguage option. 
 
+ifdef::env-github[]
+:tip-caption: :bulb:
+endif::[]
+
+[TIP]
+Home > Setup > Display > **Language and presentation** 
+
+Next move to a product page
 
 
