@@ -1,0 +1,3 @@
+== header
+
+link:/home/configuration/MAIN_CHECKBOX_LEFT_COLUMN[MAIN_CHECKBOX_LEFT_COLUMN] > Third party interface Move checkbox column as first column on Thirdparty list. > V17.0
