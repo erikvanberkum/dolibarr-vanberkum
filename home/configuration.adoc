@@ -6,5 +6,7 @@ WARNING: This page contains the list of some advanced development parameters. In
 
 === Global Options
 
-MAIN_LANGUAGES_ALLOWED > Is a list of languages without spaces, example : fr_FR,en_US,de_DE,it_IT If defined, only those languages will appear in combos. > V11.0
+link:/home/configuration/MAIN_LANGUAGES_ALLOWED[MAIN_LANGUAGES_ALLOWED] > Is a list of languages without spaces, example : fr_FR,en_US,de_DE,it_IT If defined, only those languages will appear in combos. > V11.0
+
+link:/home/configuration/MAIN_CHECKBOX_LEFT_COLUMN[MAIN_CHECKBOX_LEFT_COLUMN] > Third party interface Move checkbox column as first column on Thirdparty list. > V17.0
 
