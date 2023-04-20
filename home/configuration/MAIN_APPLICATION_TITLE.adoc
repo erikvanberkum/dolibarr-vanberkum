@@ -1,0 +1,39 @@
+:chapter-signifier:
+:copyright: GNU General Public License v3.0
+:revdate: 
+:dateCreated: 
+:description: List of user definied languages which are allowed
+:doctype: book
+:editor: wikijs
+:homepage: https://dolibarr.vanberkum.me
+:icons:
+:iconsdir: 
+:imagesdir: 
+:published: true
+:keywords: languages
+:toc: macro
+:toclevels: 2
+
+== MAIN_APPLICATION_TITLE
+
+By default dolibar shows the following link on the login page: https://www.dolibarr.org[Dolibarr x.x.x version] were x is the software version number.
+
+Constant enabled with the text "hello world".
+
+image::/files/configuration/main_application_title/main_application_title_enabled.png[main_application_title_enabled.png]
+
+Default
+
+image::/files/configuration/main_application_title/main_application_title_disabled.png[main_application_title_disabled.png]
+
+
+== Synopsis
+Any free text
+
+
+
+== Available
+-
+
+== Sources
+-
