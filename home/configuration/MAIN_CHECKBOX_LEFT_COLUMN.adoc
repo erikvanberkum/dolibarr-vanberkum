@@ -1,6 +1,22 @@
+:chapter-signifier:
+:copyright: GNU General Public License v3.0
+:revdate: 
+:dateCreated: 
+:description: Move checkbox column as first column on a list view.
+:doctype: book
+:editor: wikijs
+:homepage: https://dolibarr.vanberkum.me
+:icons:
+:iconsdir: 
+:imagesdir: 
+:published: true
+:keywords: languages
+:toc: macro
+:toclevels: 2
+
 == MAIN_CHECKBOX_LEFT_COLUMN
 
-When defined MAIN_CHECKBOX_LEFT_COLUMN is shown as the first column in a list view instead of previous the last column.
+When defined MAIN_CHECKBOX_LEFT_COLUMN is shown as the first column in a list view instead of default the last column.
 
 
 image::/files/configuration/main_checkbox_left_column/163571544-d3990d97-9dc5-4d72-9580-49ec633a0b94.png[163571544-d3990d97-9dc5-4d72-9580-49ec633a0b94.png]
