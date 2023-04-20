@@ -1,10 +1,24 @@
+:chapter-signifier:
+:copyright: GNU General Public License v3.0
+:revdate: 
+:dateCreated: 
+:description: Detailed configuration options for Dolibarr
+:doctype: book
+:editor: wikijs
+:homepage: https://dolibarr.vanberkum.me
+:icons:
+:iconsdir: 
+:imagesdir: 
+:published: true
+:keywords: oxiti, oxygen concentrator, controller, dealer
+:toc: macro
+:toclevels: 2
+
 == MAIN_LANGUAGES_ALLOWED
-:doctype: manpage
-:manmanual: EVE
-:mansource: EVE
-:man-linkstyle: pass:[blue R < >]
 
 If defined, only a limited number of selected languages will appear in the various combo boxes. +
+
+image::/files/configuration/main_languages_allowed/third-parties-main_languages_allowed.png[third-parties-main_languages_allowed.png]
 
 == Synopsis
 
