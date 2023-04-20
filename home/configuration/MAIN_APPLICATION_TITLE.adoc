@@ -26,11 +26,8 @@ Default
 
 image::/files/configuration/main_application_title/main_application_title_disabled.png[main_application_title_disabled.png]
 
-
 == Synopsis
 Any free text
-
-
 
 == Available
 -
