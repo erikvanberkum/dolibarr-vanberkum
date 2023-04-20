@@ -1,3 +1,20 @@
+:chapter-signifier:
+:copyright: Copyrighted
+:revdate: 
+:dateCreated: 
+:description: Detailed configuration options for Dolibarr
+:doctype: book
+:editor: wikijs
+:homepage: https://dolibarr.vanberkum.me
+:icons:
+:iconsdir: 
+:imagesdir: 
+:published: true
+:keywords: oxiti, oxygen concentrator, controller, dealer
+:toc: macro
+:toclevels: 2
+
+
 == Configuration
 
 A list of constants that allows you to change the behaviour of Dolibarr. These settings are not configurable in the user interface.
