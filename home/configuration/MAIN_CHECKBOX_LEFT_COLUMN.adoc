@@ -1,8 +1,20 @@
 == MAIN_CHECKBOX_LEFT_COLUMN
 
-link:/home/configuration/MAIN_CHECKBOX_LEFT_COLUMN[MAIN_CHECKBOX_LEFT_COLUMN] > Third party interface Move checkbox column as first column on Thirdparty list. > V17.0
+When defined MAIN_CHECKBOX_LEFT_COLUMN is shown as the first column in a list view instead of previous the last column.
 
 
 image::/files/configuration/main_checkbox_left_column/163571544-d3990d97-9dc5-4d72-9580-49ec633a0b94.png[163571544-d3990d97-9dc5-4d72-9580-49ec633a0b94.png]
 
 image::/files/configuration/main_checkbox_left_column/163571747-13740ac1-b0f4-4b49-9ade-bd6f4d44b12f.png[163571747-13740ac1-b0f4-4b49-9ade-bd6f4d44b12f.png]
+
+
+== Synopsis
+
+ 1
+
+== Available
+Version 17.0
+
+== Sources
+
+https://github.com/Dolibarr/dolibarr/pull/20650[Github pull request]
