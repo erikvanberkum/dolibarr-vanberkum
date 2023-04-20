@@ -18,7 +18,14 @@
 
 If defined, only a limited number of selected languages will appear in the various combo boxes. +
 
+With the constant enabled
+
 image::/files/configuration/main_languages_allowed/third-parties-main_languages_allowed.png[third-parties-main_languages_allowed.png]
+
+With the constant disabled
+
+image::/files/configuration/main_languages_allowed/third-parties-main_languages_allowed_disabled.png[third-parties-main_languages_allowed_disabled.png]
+
 
 == Synopsis
 
