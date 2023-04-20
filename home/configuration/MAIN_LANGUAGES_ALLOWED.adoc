@@ -29,7 +29,7 @@ image::/files/configuration/main_languages_allowed/third-parties-main_languages_
 
 == Synopsis
 
- fr_FR,en_US,de_DE,it_IT
+ nl_NL,en_US,fr_FR,ja_JP,es_ES
 
 A list of languages without spaces
   
