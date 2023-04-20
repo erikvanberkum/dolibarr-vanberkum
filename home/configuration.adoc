@@ -10,7 +10,7 @@
 :iconsdir: 
 :imagesdir: 
 :published: true
-:keywords: oxiti, oxygen concentrator, controller, dealer
+:keywords: index, configuration
 :toc: macro
 :toclevels: 2
 
