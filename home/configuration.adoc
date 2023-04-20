@@ -34,12 +34,6 @@ fr_FR,en_US,de_DE,it_IT. If defined, only those languages will appear in combos.
 |fr_FR,en_US,de_DE,it_IT
 |> V11.0
 
-
-|link:/home/configuration/MAIN_APPLICATION_TITLE[MAIN_APPLICATION_TITLE]
-| This change the title of the software (as it appears on the login page by default). 
-|1
-|-
-
 |===
 
 === Interface 
@@ -53,6 +47,11 @@ fr_FR,en_US,de_DE,it_IT. If defined, only those languages will appear in combos.
 |Third party interface Move checkbox column as first column on Thirdparty list.
 | 1
 |> V17.0
+
+|link:/home/configuration/MAIN_APPLICATION_TITLE[MAIN_APPLICATION_TITLE]
+| This change the title of the software (as it appears on the login page by default). 
+|1
+|-
 
 |===
 
