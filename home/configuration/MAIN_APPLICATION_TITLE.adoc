@@ -2,7 +2,7 @@
 :copyright: GNU General Public License v3.0
 :revdate: 
 :dateCreated: 
-:description: List of user definied languages which are allowed
+:description: Change the Dolibarr application title on the login page.
 :doctype: book
 :editor: wikijs
 :homepage: https://dolibarr.vanberkum.me
@@ -10,7 +10,7 @@
 :iconsdir: 
 :imagesdir: 
 :published: true
-:keywords: languages
+:keywords: interface
 :toc: macro
 :toclevels: 2
 
