@@ -17,4 +17,4 @@ include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/conf
 
 == Dolibarr Recipes
 
-https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/recipies/set_languages.adoc[]
+include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/recipies/set_languages.adoc[]
