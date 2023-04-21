@@ -2,19 +2,19 @@
 
 == Dolibarr ERP CMS configuration and recipes
 
-include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/configuration.adoc
+include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/configuration.adoc[]
 
-include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/recipies.adoc
+include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/recipies.adoc[]
 
 == Dolibarr Configuration
 
-include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/configuration/MAIN_APPLICATION_TITLE.adoc
+include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/configuration/MAIN_APPLICATION_TITLE.adoc[]
 
-include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/configuration/MAIN_CHECKBOX_LEFT_COLUMN.adoc
+include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/configuration/MAIN_CHECKBOX_LEFT_COLUMN.adoc[]
 
-include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/configuration/MAIN_LANGUAGES_ALLOWED.adoc
+include::https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/configuration/MAIN_LANGUAGES_ALLOWED.adoc[]
 
 
 == Dolibarr Recipes
 
-https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/recipies/set_languages.adoc
+https://github.com/erikvanberkum/dolibarr-vanberkum/blob/main/home/recipies/set_languages.adoc[]
