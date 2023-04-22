@@ -1,0 +1,13 @@
+== MAIN_COUNTRIES_IN_EEC
+
+Country list in European Area, for VAT purposes. From V14, **do not** use this anymore by removing the constant if set. Instead set if the country is in Europe or not in the database for V14 and V15. From V16 and onwards the value can be set in the dictionary of countries.
+
+
+
+
+== Synopsis
+
+
+== Available
+
+V10.0-V13.0
