@@ -7,6 +7,7 @@ image::/files/configuration/main_countries_in_eec/main_countries_in_eec.png[main
 
 == Synopsis
 
+obsolate do not set.
 
 == Available
 
