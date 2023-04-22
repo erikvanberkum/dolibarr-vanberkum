@@ -20,7 +20,7 @@ Layout for private notes is similar as for public notes.
 
 == Available
 
-- 
+V3.6
 
 
 
