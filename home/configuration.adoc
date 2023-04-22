@@ -44,6 +44,11 @@ fr_FR,en_US,de_DE,it_IT. If defined, only those languages will appear in combos.
 |1
 |-
 
+|link:/home/configuration/MAIN_COUNTRIES_IN_EEC[MAIN_COUNTRIES_IN_EEC]
+|Country list in European Area (For VAT purpose) 
+|obsolate
+|V10.0-V13.0
+
 |===
 
 === Interface 
@@ -55,7 +60,7 @@ fr_FR,en_US,de_DE,it_IT. If defined, only those languages will appear in combos.
 
 |link:/home/configuration/MAIN_CHECKBOX_LEFT_COLUMN[MAIN_CHECKBOX_LEFT_COLUMN]
 |Third party interface Move checkbox column as first column on Thirdparty list.
-| 1
+|1
 |> V17.0
 
 |link:/home/configuration/MAIN_APPLICATION_TITLE[MAIN_APPLICATION_TITLE]
