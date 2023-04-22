@@ -11,4 +11,4 @@ obsolate do not set.
 
 == Available
 
-V10.0 - V13.0
+V10.0 - V13.0 from V16 configuration in the dolibarr interface.
