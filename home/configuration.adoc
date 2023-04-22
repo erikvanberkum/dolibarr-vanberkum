@@ -37,12 +37,12 @@ fr_FR,en_US,de_DE,it_IT. If defined, only those languages will appear in combos.
 |link:/home/configuration/MAIN_AUTO_TIMESTAMP_IN_NOTES[MAIN_AUTO_TIMESTAMP_IN_PUBLIC_NOTES]
 |Add a timestamp and user automatically when editing the __public__ note.
 |1
-|V3.6
+|> V3.6
 
 |link:/home/configuration/MAIN_AUTO_TIMESTAMP_IN_NOTES[MAIN_AUTO_TIMESTAMP_IN_PRIVATE_NOTES]
 |Add a timestamp and user automatically when editing the __private__ note.
 |1
-|V3.6
+|> V3.6
 
 |link:/home/configuration/MAIN_COUNTRIES_IN_EEC[MAIN_COUNTRIES_IN_EEC]
 |Country list in European Area (For VAT purpose) 
@@ -67,7 +67,6 @@ fr_FR,en_US,de_DE,it_IT. If defined, only those languages will appear in combos.
 |This change the title of the software (as it appears on the login page by default). 
 |1
 |-
-
 
 
 |===
