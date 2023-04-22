@@ -1,3 +1,27 @@
-== MAIN_AUTO_TIMESTAMP_IN_NOTES
+== MAIN_AUTO_TIMESTAMP_IN_PUBLIC_NOTES & MAIN_AUTO_TIMESTAMP_IN_PRIVATE_NOTES
 
-content
+This configuration consists of 2 options an automatic username and timestamp in the public or private notes of a document.
+Note fields are available for proposals, products, invoices, price request etc. When enabled the username and timestamp will also be printed on the pdf. 
+
+When enabled in public notes
+
+image::/files/configuration/main_auto_timestam_in_notes/main_auto_timestamp_in_notes_enabled.png[main_auto_timestamp_in_notes_enabled.png]
+
+When disabled in public notes
+
+image::/files/configuration/main_auto_timestam_in_notes/main_auto_timestamp_in_notes_disabled.png[main_auto_timestamp_in_notes_disabled.png]
+
+Layout for private notes is similar as for public notes. 
+
+
+== Synopsis
+
+1
+
+== Available
+
+- 
+
+
+
+
