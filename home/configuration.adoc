@@ -34,6 +34,11 @@ fr_FR,en_US,de_DE,it_IT. If defined, only those languages will appear in combos.
 |fr_FR,en_US,de_DE,it_IT
 |> V11.0
 
+|link:/home/configuration/MAIN_AUTOFILL_DATE[MAIN_AUTOFILL_DATE]
+|The current date is auto-filled in invoices, proposals, orders and payments.
+|1
+|-
+
 |link:/home/configuration/MAIN_AUTO_TIMESTAMP_IN_NOTES[MAIN_AUTO_TIMESTAMP_IN_PUBLIC_NOTES]
 |Add a timestamp and user automatically when editing the __public__ note.
 |1
