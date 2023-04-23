@@ -76,3 +76,8 @@ fr_FR,en_US,de_DE,it_IT. If defined, only those languages will appear in combos.
 
 |===
 
+
+=== UNDEFINED
+
+- WAREHOUSE_ASK_WAREHOUSE_DURING_ORDER
+
