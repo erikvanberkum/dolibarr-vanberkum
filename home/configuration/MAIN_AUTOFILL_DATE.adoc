@@ -1,3 +1,18 @@
 == MAIN_AUTOFILL_DATE
 
-content
+The current date is auto-filled in invoices, proposals, orders and payments. 
+
+It's recommended to take care when enabling this feature as it can create input errors with data not validated by users. This leads to incorrect values saved and can cause confusion when making accountancy reports.
+
+=== Synopsis 
+
+1
+
+=== Related
+
+link:/home/configuration/MAIN_AUTOFILL_DATE_ORDER[MAIN_AUTOFILL_DATE_ORDER]
+
+
+=== Available
+
+-
