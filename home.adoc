@@ -12,8 +12,12 @@ The purpose of this website is to study and give my insights, how to setup and c
 
 === link:/home/recipies[Recipies]
 
-- Dolibarr recipes dive deep in defining a practical problem with providing a solution.
+- link:/home/recipies[Dolibarr recipes] dive deep in defining a practical problem with providing a solution.
 
 === link:/home/configuration[Configuration]
 
-- Dolibarr specific detailed configuration is done by constants, there is a growing list of over 450 constants to enable additional features or disable some features which are not usefull for your organisation.
+- link:/home/configuration[Dolibarr configuration] gives insight in a growing list of over 450 constants to enable additional features or disable some features which are not usefull for your organisation.
+
+=== Github
+
+The link:https://github.com/erikvanberkum/dolibarr-vanberkum[repository] of this website is hosted in .adoc format on github.
