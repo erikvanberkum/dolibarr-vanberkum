@@ -1,12 +1,19 @@
 == Dolibarr
 
+Dolibarr ERP & CRM is a modern software package that helps manage your organization's activity (contacts, suppliers, invoices, orders, stocks, agenda…).
+
+It's an Open Source Software suite (written in PHP with optional JavaScript enhancements) designed for small, medium or large companies, foundations and freelancers.
+
+You can freely use, study, modify or distribute it according to its licence.
+
+You can use it as a standalone application or as a web application to access it from the Internet or a LAN.
+
+The purpose of this website is to study and give my insights, how to setup and configure Dolibarr to tailor my needs.  
+
 === link:/home/recipies[Recipies]
 
-- content here
+- Dolibarr recipes dive deep in defining a practical problem with providing a solution.
 
 === link:/home/configuration[Configuration]
 
-- content here
-
-
-image::/files/dolibarr_logo.png[dolibarr_logo.png]
+- Dolibarr specific detailed configuration is done by constants, there is a growing list of over 450 constants to enable additional features or disable some features which are not usefull for your organisation.
