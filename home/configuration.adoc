@@ -73,8 +73,13 @@ fr_FR,en_US,de_DE,it_IT. If defined, only those languages will appear in combos.
 |1
 |-
 
+|link:/home/configuration/MRP_SHOW_COST_FOR_CONSUMPTION[MRP_SHOW_COST_FOR_CONSUMPTION]
+|Put a column in MO order production between Unit cost between Qty and Qty already consumed 
+|1
+|> V17.0
 
 |===
+
 
 
 === UNDEFINED
