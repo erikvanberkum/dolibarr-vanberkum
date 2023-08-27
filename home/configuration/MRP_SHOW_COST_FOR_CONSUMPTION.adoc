@@ -1,3 +1,35 @@
-== header
+:chapter-signifier:
+:copyright: GNU General Public License v3.0
+:revdate: 
+:dateCreated: 
+:description: Put a column on the MRP production page between Unit cost between Qty and Qty already consumed
+:doctype: book
+:editor: wikijs
+:homepage: https://dolibarr.vanberkum.me
+:icons:
+:iconsdir: 
+:imagesdir: 
+:published: true
+:keywords: interface
+:toc: macro
+:toclevels: 2
 
-content
+== MRP_SHOW_COST_FOR_CONSUMPTION
+
+Standard display without MRP_SHOW_COST_FOR_CONSUMPTION enabled.
+
+image::/files/configuration/mrp_show_cost_for_consumption/mrp_show_cost_for_consumtion_before.png[mrp_show_cost_for_consumtion_before.png]
+
+Put a column on the MRP production page between Unit cost between Qty and Qty already consumed
+
+
+
+
+== Synopsis
+
+
+== Available
+-
+
+== Sources
+-
